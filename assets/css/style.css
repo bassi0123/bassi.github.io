@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900&display=swap');
  @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap');
 @font-face {
     font-family: CircularStd-Black;
@@ -17,8 +16,8 @@
     src: url(../fonts/circular_std/CircularStd-Medium.otf);
 }
 @font-face {
-    font-family: Recoleta-Regular;
-    src: url(../fonts/recoleta/Recoleta-Regular.otf);
+    font-family: Recoleta-Bold;
+    src: url(../fonts/recoleta/Recoleta-Bold.ttf);
 }
 body {
     margin: 0
@@ -1089,7 +1088,7 @@ th {
 	
 	.hd-txt{
 		font-size:87px;
-		font-family:Recoleta-Regular;
+		font-family:Recoleta-Bold;
 		font-weight:700;
 		color:#221C1C;
 		margin-top: 70px;
